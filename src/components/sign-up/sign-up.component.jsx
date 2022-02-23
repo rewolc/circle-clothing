@@ -20,7 +20,7 @@ class SignUp extends Component{
    handleSubmit = async e =>{
       e.preventDefault();
       const {displayName,email,password,confirmPassword} = this.state;
-      if(password != confirmPassword) {
+      if(password !== confirmPassword) {
          alert('passwords do not match')
          return;
       }
