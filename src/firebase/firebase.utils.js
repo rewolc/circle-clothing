@@ -41,6 +41,13 @@ import { Firestore } from 'firebase/firestore';
    return userRef;
  };
  
+
+export const addCollectionsAndDocuments = (collectKey, objectsToAdd) => {
+  const collectionRef = firestore.collection(collectKey)
+}
+
+
+
  export const auth = firebase.auth();
  export const firestore = firebase.firestore();
  

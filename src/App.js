@@ -11,7 +11,6 @@ import { connect } from 'react-redux';
 import {setCurrentUser} from './redux/user/user.actions';
 import { CurUser } from './redux/user/user.selector';
 import { createStructuredSelector } from 'reselect';
-
 class App extends Component {
   
 
