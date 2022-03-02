@@ -1,16 +1,15 @@
 .sign-in {
-   width: 380px;
-   display: flex;
-   flex-direction: column;
-   font-family: 'Open Sans Condensed';
-   font-size: 20px;
-   
+  width: 380px;
+  display: flex;
+  flex-direction: column;
+  font-family: "Open Sans Condensed";
+  font-size: 20px;
 
-   .title {
-      margin: 10px 0;
-   }
-   .button{
-      display: flex;
-      justify-content: space-between;
-   }
+  .title {
+    margin: 10px 0;
+  }
+  .button {
+    display: flex;
+    justify-content: space-between;
+  }
 }
