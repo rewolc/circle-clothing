@@ -16,5 +16,5 @@ export const selectShopCollection = createSelector(
 
 export const selectCollection = (collectionUrlParam) =>
   createSelector([selectShopCollection], (collections) =>
-    collections.find((i) => i.id == COLLECTION_ID_MAP[collectionUrlParam])
+    collections.find((i) => i.id === COLLECTION_ID_MAP[collectionUrlParam])
   );
