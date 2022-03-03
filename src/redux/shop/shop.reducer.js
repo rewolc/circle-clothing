@@ -86,7 +86,7 @@ const INNITIAL_STATE = {
         },
         {
           id: 13,
-          name: "Nike White AirForce",
+          name: "Nike AirForce",
           imageUrl: "https://i.ibb.co/1RcFPk0/white-nike-high-tops.png",
           price: 160,
         },
@@ -123,7 +123,7 @@ const INNITIAL_STATE = {
       items: [
         {
           id: 18,
-          name: "Black Jean Shearling",
+          name: "Black Shearling",
           imageUrl: "https://i.ibb.co/XzcwL5s/black-shearling.png",
           price: 125,
         },

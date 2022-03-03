@@ -1,12 +1,12 @@
 .menu-item {
-  min-width: 30%;
-  height: 240px;
-  flex: 1 1 auto;
+  // min-width: 30%;
+  // height: 240px;
+  // flex: 1 1 auto;
   display: flex;
   align-items: center;
   justify-content: center;
   border: none;
-  margin: 0 7.5px 15px;
+  // margin: 0 7.5px 15px;
   overflow: hidden;
   &:hover {
     cursor: pointer;
@@ -21,9 +21,9 @@
     }
   }
 
-  &.large {
-    height: 380px;
-  }
+  // &.large {
+  //   height: 380px;
+  // }
 
   &:first-child {
     margin-right: 7.5px;

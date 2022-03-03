@@ -10,11 +10,10 @@ export const HeaderContainer = styled.div`
 `;
 export const LogoContainer = styled(Link)`
   height: 100%;
-  width: 130px;
+  width: 120px;
   padding: 25px;
 `;
 export const OptionContainer = styled.div`
-  width: 50%;
   height: 100%;
   display: flex;
   align-items: center;
@@ -24,6 +23,6 @@ export const OptionContainer = styled.div`
 `;
 
 export const OptinLink = styled(Link)`
-  padding: 50px 15px 0px 0px;
+  padding: 50px 10px 0px 0px;
   cursor: pointer;
 `;
