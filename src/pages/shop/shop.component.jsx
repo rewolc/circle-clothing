@@ -1,4 +1,3 @@
-import { Component } from "react";
 import CollectionsOverview from "../../components/collections-overview/collections-overview.jsx";
 import { Route } from "react-router-dom";
 import CollectionPage from "../collection/collection.jsx";

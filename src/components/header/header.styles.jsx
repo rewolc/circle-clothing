@@ -12,17 +12,18 @@ export const LogoContainer = styled(Link)`
   height: 100%;
   width: 120px;
   padding: 25px;
+  cursor: pointer;
 `;
 export const OptionContainer = styled.div`
   height: 100%;
   display: flex;
   align-items: center;
   justify-content: flex-end;
-  cursor: pointer;
+
   font-size: 30px;
 `;
 
 export const OptinLink = styled(Link)`
-  padding: 50px 10px 0px 0px;
+  margin: 50px 10px 0px 0px;
   cursor: pointer;
 `;

@@ -1,8 +1,6 @@
 import firebase from "firebase/compat/app";
-import { initializeApp } from "firebase/app";
 import "firebase/compat/firestore";
 import "firebase/compat/auth";
-import { Firestore } from "firebase/firestore";
 const config = {
   apiKey: "AIzaSyCmvbe2FFKl_F-Blyzs6HyY8sONkeZBhxE",
   authDomain: "circle-shp.firebaseapp.com",
