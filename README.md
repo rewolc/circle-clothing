@@ -1,1 +1,1 @@
-https://circle-clothing.vercel.app/
+https://circle-clothing.vercel.app/  - e-commerse clothes shop
